@@ -1,0 +1,20 @@
+{
+  "person": [
+    {
+      "name": "s",
+      "email": "mn",
+      "password": "qwd",
+      "contact": "s",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "dwq",
+      "email": "wsdwkldi",
+      "password": "wqd",
+      "contact": "dqwd",
+      "active": true,
+      "id": 2
+    }
+  ]
+}
